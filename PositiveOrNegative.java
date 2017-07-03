@@ -12,7 +12,7 @@ public class PositiveOrNegative {
 		}
 		else if(a>0)
 		{
-			System.out.println("ositive");
+			System.out.println("Positive");
 		}
 		else
 		{
